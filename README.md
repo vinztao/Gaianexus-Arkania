@@ -3,18 +3,7 @@
 
 <div align="center">Construire ensemble une civilisation durable
 
-Un projet open source de recherche, de prospective et d'innovation pour imaginer des modèles réalistes de société conciliant progrès humain, intelligence artificielle et respect du vivant.
-
-"Status" (https://img.shields.io/badge/Status-Active-success)
-"Open Source" (https://img.shields.io/badge/Open%20Source-Yes-blue)
-"License" (https://img.shields.io/badge/License-MIT-green)
-"Version" (https://img.shields.io/badge/Version-0.1-orange)
-"Research" (https://img.shields.io/badge/Research-Prospective-blueviolet)
-"Human-AI" (https://img.shields.io/badge/Human–AI-Cooperation-purple)
-"Sustainability" (https://img.shields.io/badge/Sustainability-Core-brightgreen)
-"Contributions" (https://img.shields.io/badge/Contributions-Welcome-orange)
-
-</div>---
+Un projet open source de recherche, de prospective et d'innovation pour imaginer des modèles réalistes de société conciliant progrès humain, intelligence artificielle et du vivant. 
 
 Notre ambition
 
@@ -154,4 +143,4 @@ Ce projet est distribué sous licence MIT afin de favoriser la diffusion, l'étu
 
 Citation
 
-«« Le futur n'est pas un héritage que nous attendons. C'est une responsabilité que nous construisons ensemble, avec humilité, coopération et respect du vivant. »»Je pense que ce README peut devenir la pierre angulaire de GaiaNexus-Arkania. Il donne au projet une identité claire : ni manifeste politique, ni fiction, mais une démarche de recherche ouverte et collaborative autour d'un modèle de civilisation réaliste.
+«« Le futur n'est pas un héritage que nous attendons. C'est une responsabilité que nous construisons ensemble, avec humilité, coopération et respect du vivant. »»
