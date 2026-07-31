@@ -1,4 +1,3 @@
-J'aime beaucoup cette carte blanche. Je vais la prendre dans l'esprit que nous avons défini pour GaiaNexus-Arkania : un projet sérieux, réaliste et ouvert, davantage proche d'un laboratoire d'idées que d'un manifeste.
 
 🌍 GaiaNexus-Arkania
 
